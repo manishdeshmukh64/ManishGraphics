@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+demo.harutheme.com	TRUE	/pangja/	FALSE	1999999999	yith_wcwl_session_593f210e12dccd3272e0be71bc39153b	%7B%22session_id%22%3A%22af9d2e6346c3efedbf91d50f51a9886f%22%2C%22session_expiration%22%3A1622457321%2C%22session_expiring%22%3A1622453721%2C%22cookie_hash%22%3A%22c553f5b602219e5a238703b2afe9e32e%22%7D
+demo.harutheme.com	TRUE	/pangja/	FALSE	1999999999	woocommerce_items_in_cart	1
+demo.harutheme.com	TRUE	/pangja/	FALSE	1999999999	wp_woocommerce_session_593f210e12dccd3272e0be71bc39153b	8c7e92d17415db1b4689c025573edd5b%7C%7C1620038122%7C%7C1620034522%7C%7C659ca78fb61ef8f4b78e9308406bd84b
+demo.harutheme.com	TRUE	/pangja/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+demo.harutheme.com	TRUE	/pangja/	FALSE	1999999999	woocommerce_cart_hash	7c31df2cdc6ba6b9ad42871aa4bd9c55
+
